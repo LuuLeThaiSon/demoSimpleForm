@@ -1,0 +1,18 @@
+table {
+    width: 100%;
+    border: 15px solid;
+    border-color: #ddfdff;
+}
+
+th {
+    background-color: #ee5a28;
+    color: white;
+}
+
+td {
+    color: blue;
+}
+
+.fvr {
+    color: #ee5a28; !important;
+}
