@@ -1,0 +1,14 @@
+table {
+    background-color: #fffdb2;
+    font-family: Arial;
+}
+
+th {
+    text-align: left;
+    background-color: #dcfcd9;
+    color: #1532f5;
+}
+
+.text {
+    color: #172aa4;
+}

@@ -1,7 +1,13 @@
 table {
     width: 100%;
     border: 15px solid;
+    border-top: 8px solid;
     border-color: #ddfdff;
+}
+
+body {
+    padding-left: 500px;
+    padding-right: 500px;
 }
 
 th {
@@ -15,4 +21,9 @@ td {
 
 .fvr {
     color: #ee5a28; !important;
+    text-align: left;
+}
+
+.textName {
+    width: 200px;
 }
